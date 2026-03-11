@@ -9,4 +9,6 @@ Gabriel Gouvea Marques de Oliveira - RM555528
 
 Miguel Kapicius Caires - RM556198
 
+Nicolly Ramalho Bleinat - RM555359
+
 Thiago Ferreira Oliveira - RM555608
